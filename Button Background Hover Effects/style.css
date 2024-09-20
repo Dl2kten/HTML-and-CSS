@@ -10,6 +10,8 @@
     left: 50%;
     translate: -50% -50%;
     display: inline-flex;
+    justify-content: left;
+    width: 1900px;
 }
 
 .wrapper a{
